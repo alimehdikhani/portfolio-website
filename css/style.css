@@ -82,6 +82,16 @@ body {
     border: 4px solid #3498db;
 }
 
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+    border: 4px solid #3498db;
+    display: block;
+}
+
 .hero h1 {
     font-size: 3rem;
     margin-bottom: 0.5rem;
